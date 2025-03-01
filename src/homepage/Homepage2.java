@@ -7,6 +7,9 @@ public class Homepage2 {
 
 		int a ,b ,c;
 	      System.out.println("hello git how are you");
+	      
+	      int x ,y ,z;
+	      System.out.println("hello git how are you");
 	}
 
 }
